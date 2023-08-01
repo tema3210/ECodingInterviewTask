@@ -1,0 +1,13 @@
+﻿.pageSpan {
+    display: inline-block;
+    margin-left: 1rem;
+    font-size: 18pt;
+}
+
+.arrowSpan {
+    transform: scale(1.2,0.9);
+}
+
+.currentPageSpan {
+    font-weight: bolder;
+}

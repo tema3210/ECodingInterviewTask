@@ -1,0 +1,19 @@
+﻿.actionButton {
+    margin-right: 0.3rem;
+}
+
+.formContainer {
+    margin-bottom: 1rem;
+}
+
+.formContainer select {
+    margin-bottom: 1rem;
+}
+
+.smallSub {
+    font-size: 13pt;
+}
+
+.formBtn {
+    margin-right: 1rem;
+}
